@@ -52,4 +52,4 @@ O objetivo deste tópico é fornecer **diretrizes claras e aplicáveis** para in
 
 > 💡 **Dica extra:**  
 > Dedique pelo menos 15 a 30 minutos por dia para escrever algo novo.  
-> A regularidade é mais importante que a quantidade — o cérebro aprende e melhora com repetição e revisão constante.  
+> A regularidade é mais importante que a quantidade! O cérebro aprende e melhora com repetição e revisão constante.  
