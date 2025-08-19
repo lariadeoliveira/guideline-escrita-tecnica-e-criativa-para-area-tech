@@ -2,7 +2,7 @@
 
 Este repositório foi criado com o objetivo de apresentar e desenvolver a **escrita técnica** como uma *hard skill* essencial para profissionais da área de tecnologia.  
 
-Aqui você aprenderá a estruturar documentações, escrever cards, produzir conteúdos técnicos e criativos, além de fortalecer uma habilidade altamente requisitada no mercado — tudo isso sem depender exclusivamente de ferramentas de IA.  
+Aqui você aprenderá a estruturar documentações, escrever cards, produzir conteúdos técnicos e criativos, além de fortalecer uma habilidade altamente requisitada no mercado, tudo isso sem depender exclusivamente de ferramentas de IA.  
 
 ## Por que isso é importante?  
 No cenário atual, em que grande parte do conteúdo é produzido por inteligência artificial, a capacidade de criar textos originais se torna um diferencial competitivo.  
