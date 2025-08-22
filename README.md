@@ -12,11 +12,11 @@ Além de se destacar no mercado, essa prática contribui para:
 - Aumentar sua autonomia na produção de conteúdos técnicos.  
 
 ## Tópicos que você encontrará neste Guideline
-1. **O que é Escrita Técnica?**  
-2. **O que é Escrita Criativa?**  
-3. **Como começar e desenvolver essa skill?**  
-4. **Estruturação textual eficiente**  
-5. **Produção de textos para diferentes contextos técnicos**  
+1. [O que é Escrita Técnica?](https://github.com/lariadeoliveira/Guideline-Escrita-Tecnica/blob/main/o%20que%20%C3%A9%20escrita%20t%C3%A9cnica%3F.md)
+2. [O que é Escrita Criativa?](https://github.com/lariadeoliveira/Guideline-Escrita-Tecnica/blob/main/o%20que%20%C3%A9%20escrita%20criativa%3F.md)
+3. [Como começar e desenvolver essa skill?](https://github.com/lariadeoliveira/Guideline-Escrita-Tecnica/blob/main/Como%20come%C3%A7ar%20e%20desenvolver%20essa%20skill.md)
+4. [Estruturação textual eficiente](https://github.com/lariadeoliveira/Guideline-Escrita-Tecnica/blob/main/estrutura%C3%A7%C3%A3o%20textual%20eficiente.md)
+5. [Produção de textos para diferentes contextos técnicos](https://github.com/lariadeoliveira/Guideline-Escrita-Tecnica/blob/main/Produ%C3%A7%C3%A3o%20de%20textos%20para%20diferentes%20contextos%20t%C3%A9cnicos.md)
 
 ## Atualizações  
 Este repositório será atualizado **mensalmente** com novos conteúdos e materiais de apoio.  
